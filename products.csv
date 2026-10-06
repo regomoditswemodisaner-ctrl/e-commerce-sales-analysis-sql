@@ -1,0 +1,16 @@
+Product_ID,Product_Name,Category,Price
+P001,Wireless Mouse,Electronics,25.0
+P002,Laptop Stand,Electronics,45.0
+P003,USB-C Hub,Electronics,35.0
+P004,Bluetooth Speaker,Electronics,60.0
+P005,Keyboard,Electronics,40.0
+P006,Desk Lamp,Home & Kitchen,30.0
+P007,Water Bottle,Sports,20.0
+P008,Yoga Mat,Sports,35.0
+P009,Resistance Bands,Sports,25.0
+P010,Notebook,Stationery,8.0
+P011,Planner,Stationery,15.0
+P012,Pen Set,Stationery,10.0
+P013,Face Moisturizer,Beauty,28.0
+P014,Cleanser,Beauty,22.0
+P015,Hair Brush,Beauty,18.0
